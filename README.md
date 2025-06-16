@@ -1,4 +1,4 @@
-# [REPO NAME HERE]
+# OTel Distro Builder Demo
 
 <center>
 
@@ -8,37 +8,7 @@
 
 </center>
 
-[INSERT AN OVERVIEW DESCRIPTION HERE]
-
-## Quick Start
-
-### Installation
-
-#### Linux
-
-[INSERT INSTALLATION INSTRUCTIONS HERE]
-
-#### Windows
-
-[INSERT INSTALLATION INSTRUCTIONS HERE]
-
-#### macOS
-
-[INSERT INSTALLATION INSTRUCTIONS HERE]
-
-#### Kubernetes
-
-[INSERT INSTALLATION INSTRUCTIONS HERE]
-
-## Configuration
-
-[INSERT CONFIGURATION INSTRUCTIONS HERE IF NEEDED]
-
-[INSERT EXAMPLE CONFIG HERE IF NEEDED]
-
-# Community
-
-The [REPO NAME HERE] is an open source project. If you'd like to contribute, take a look at our [contribution guidelines](/docs/CONTRIBUTING.md) and [developer guide](/docs/development.md). We look forward to building with you.
+A repository using the OTel Distro Builder to generate a collector release built using the OCB manifest in the root of the repo.
 
 # How can we help?
 
