@@ -3,7 +3,7 @@ dist:
   name: otel-distro-builder-demo
   description: OpenTelemetry Collector built with Bindplane components for demo purposes.
   output_path: ./_build
-  version: v1.1.0
+  version: v1.1.3
 conf_resolver:
   default_uri_scheme: "env"
 receivers:
