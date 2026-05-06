@@ -63,11 +63,11 @@ processors:
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/remotetapprocessor v0.151.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourcedetectionprocessor v0.151.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourceprocessor v0.151.0
-  - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/routingprocessor v0.151.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/spanprocessor v0.151.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/sumologicprocessor v0.151.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/tailsamplingprocessor v0.151.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/transformprocessor v0.151.0
+  - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/processor/unrollprocessor v0.151.0
   - gomod: github.com/observiq/bindplane-otel-contrib/processor/datapointcountprocessor v1.5.0
   - gomod: github.com/observiq/bindplane-otel-contrib/processor/logcountprocessor v1.5.0
   - gomod: github.com/observiq/bindplane-otel-contrib/processor/lookupprocessor v1.5.0
@@ -81,7 +81,6 @@ processors:
   - gomod: github.com/observiq/bindplane-otel-contrib/processor/spancountprocessor v1.5.0
   - gomod: github.com/observiq/bindplane-otel-contrib/processor/throughputmeasurementprocessor v1.5.0
   - gomod: github.com/observiq/bindplane-otel-contrib/processor/topologyprocessor v1.5.0
-  - gomod: github.com/observiq/bindplane-otel-contrib/processor/unrollprocessor v1.5.0
 connectors:
   - gomod: go.opentelemetry.io/collector/connector/forwardconnector v0.151.0
   - gomod: github.com/open-telemetry/opentelemetry-collector-contrib/connector/countconnector v0.151.0
